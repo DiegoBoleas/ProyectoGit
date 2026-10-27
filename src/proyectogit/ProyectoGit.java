@@ -13,6 +13,7 @@ public class ProyectoGit {
     public static void main(String[] args) {
 
         System.out.println("Cambio realizado en master para conflicto");
+        System.out.println("Cambio realizado en ramaConflicto");
     }
 
 }
