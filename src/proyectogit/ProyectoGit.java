@@ -12,8 +12,7 @@ public class ProyectoGit {
      */
     public static void main(String[] args) {
 
-        System.out.println("Cambio realizado en ramaPrueba");
-        
+        System.out.println("Cambio realizado en ramaConflicto");
     }
 
 }
