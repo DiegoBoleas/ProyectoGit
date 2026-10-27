@@ -4,10 +4,7 @@
  */
 package proyectogit;
 
-/**
- *
- * @author Usuario
- */
+// Cambio realizado en master
 public class ProyectoGit {
 
     /**
